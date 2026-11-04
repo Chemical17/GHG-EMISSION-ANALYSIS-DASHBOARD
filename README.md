@@ -6,3 +6,8 @@ Power BI portfolio project demonstrating Scope 1, 2 &amp; 3 GHG accounting, indu
 <div align="center">
   <img src="https://github.com/Chemical17/GHG-EMISSION-ANALYSIS-DASHBOARD/blob/aca94b0dd6633b4a1e7c9df800dc5244e2c59fa4/GHG%20dashboard2.png" alt="GHG EMISSION Dashboard" width="800"/>
 </div>
+<div align="center">
+  <img src="https://github.com/Chemical17/GHG-EMISSION-ANALYSIS-DASHBOARD/blob/32e997773dd0d6980fedafe50d339d4a4afcb2f9/GHG%20Dashboard%203.png" alt="GHG EMISSION Dashboard" width="800"/>
+</div>
+
+
